@@ -12,4 +12,4 @@ The data is actively being mined from a vareity of nonprofit origanizations that
 ### The Visualization Methodology 
 I opted to keep narrative, a visualizatoni of text, as the visualization. 
 
-<img width="555" alt="Screen Shot 2022-11-15 at 12 34 31 PM" src="https://user-images.githubusercontent.com/110298832/201987682-a5c22900-4d8e-490f-9758-55434558523a.png">
+<center><img width="555" alt="Screen Shot 2022-11-15 at 12 34 31 PM" src="https://user-images.githubusercontent.com/110298832/201987682-a5c22900-4d8e-490f-9758-55434558523a.png"></center>
